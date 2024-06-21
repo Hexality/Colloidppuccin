@@ -1,8 +1,6 @@
 <div align="center">
-  <img width="200" src="https://github.com/Hexality/Colloidppuccin/assets/17398632/203ba910-68a3-4236-aef6-b16cc009eb2e">
+  <img width="320" src="https://github.com/Hexality/Colloidppuccin/assets/17398632/999cef3f-d376-4165-8ab3-c9cb75f427e4">
 </div>
-
-![Colloid](colloid.png?raw=true)
 
 ## Requirements
 
@@ -19,9 +17,13 @@
 
 ## Donate
 
-If you like my project, you can buy me a coffee:
+If you'd like to support the original project, you can buy them a coffee through:
 
 <span class="paypal"><a href="https://www.paypal.me/vinceliuice" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
+
+If you liked my edit and want to tip me something for some reason, you can do it through:
+
+<span class="kofi"><a href="https://ko-fi.com/U7U71X5BN" title="Donate me through Ko-fi"><img width="180" src="https://github.com/Hexality/Colloidppuccin/assets/17398632/56704189-1be6-4087-a8f4-8302a0d3b58c" alt="Donate-me through Ko-fi"></a></span>
 
 ## Installation
 
