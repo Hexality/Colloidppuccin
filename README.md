@@ -1,4 +1,6 @@
-## Colloid gtk theme
+<div align="center">
+  <img width="200" src="https://github.com/Hexality/Colloidppuccin/assets/17398632/203ba910-68a3-4236-aef6-b16cc009eb2e">
+</div>
 
 ![Colloid](colloid.png?raw=true)
 
